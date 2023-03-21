@@ -5,6 +5,11 @@
 - run npm install
 - run npm start
 
+### TODO
+
+- Table view
+- Sorting
+
 ### Demo
 
 https://user-images.githubusercontent.com/107272417/226727644-ee95ecb6-fd71-4272-822a-6be7223c1f3e.mp4

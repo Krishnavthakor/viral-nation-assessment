@@ -1,0 +1,21 @@
+.container {
+  margin-top: 2rem;
+}
+
+.headerContainer {
+  display: flex;
+  column-gap: 1rem;
+}
+
+.searchContainer {
+    flex-grow: 1;
+}
+
+
+@media (max-width: 425px) {
+  .headerContainer {
+    width: 100%;
+    flex-wrap: wrap;
+    row-gap: 1rem;
+  }
+}

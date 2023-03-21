@@ -1,0 +1,8 @@
+.title {
+  display: flex;
+  align-items: center;
+}
+
+.innerContainer {
+  margin-right: 0.5rem;
+}
